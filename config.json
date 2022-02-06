@@ -1,0 +1,12 @@
+{
+    "change_note_card_type_shortcuts" : [
+        {
+            "note_type": "Basic",
+            "shortcut": "Meta+Shift+N"
+        },
+        {
+            "note_type": "Cloze",
+            "shortcut": "Meta+Shift+C"
+        }
+    ]
+}
